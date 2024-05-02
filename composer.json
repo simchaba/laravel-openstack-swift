@@ -11,7 +11,7 @@
     ],
     "require": {
         "nimbusoft/flysystem-openstack-swift": "^1.0",
-        "simchaba/laravel-cached-openstack": "master",
+        "simchaba/laravel-cached-openstack": "dev-master",
         "illuminate/support": "^9.0 || ^10.0 || ^11.0",
         "illuminate/filesystem": "^9.0 || ^10.0 || ^11.0"
     },
