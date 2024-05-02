@@ -1,5 +1,5 @@
 {
-    "name": "mzur/laravel-openstack-swift",
+    "name": "simchaba/laravel-openstack-swift",
     "description": "OpenStack Swift storage driver for Laravel/Lumen.",
     "type": "library",
 
